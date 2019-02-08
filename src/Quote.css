@@ -1,0 +1,44 @@
+/* Buttons */
+.buttons-container {
+  outline: none; 
+}
+
+.buttons-container>a {
+  cursor: pointer;
+  padding: 7px;
+  font-size: 1.875em;
+  margin: 35px;
+  color: #38A1F3;
+  border-radius: 5px;
+}
+
+#new-quote:hover, #tweet-quote:hover {
+  box-shadow: 2px 2px 1px 0px rgba(0, 0, 0, .5);
+}
+
+
+/* Quote */
+.quote-container {
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, .5, .5);
+  margin-top: 90px;
+  padding: 15px;
+  border-radius: 5px;
+  background-color:  #a5b1c2;
+}
+
+#text {
+  font-size: 1.500em;
+}
+
+#author {
+  font-size: 1.250em;
+}
+
+
+/* Loading... paragraph */
+.loading {
+  font-size: 1.875em;
+  padding-top: 200px;
+  letter-spacing: 4px;
+}
+
