@@ -5,6 +5,10 @@ This project is part of [freeCodeCamp](https://www.freecodecamp.org/) Front End 
 ## View project
 https://milosrancic.github.io/reactjs-quote-machine
 
+### Screenshot
+
+[![Quote-Machine.png](https://i.postimg.cc/2y1rd5hM/Quote-Machine.png)](https://postimg.cc/WqcBTT9w)
+
 ### Technologies
 HTML5, CSS3, JavaScript, ReactJS
 
